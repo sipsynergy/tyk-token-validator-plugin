@@ -1,0 +1,15 @@
+{
+  "file_list": [
+    "external-token-check.py"
+  ],
+  "custom_middleware": {
+    "pre": [
+      {
+        "name": "ExternalTokenValidatorMiddleware"
+      }
+    ],
+    "driver": "python"
+  },
+  "checksum": "",
+  "signature": ""
+}
